@@ -15,6 +15,7 @@ String sex;
 		System.out.println("Name = Geetika");
 		System.out.println("Age = 26");
 		System.out.println("Sex = F");
+		System.out.println("Sex = F");
 		
 	}
 }
